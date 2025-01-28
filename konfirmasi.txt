@@ -1,0 +1,17 @@
+Adicandra
+Playstation 5
+Lama        : 5 hari
+Harga       : 1000000
+Pengembalian: belum
+
+Adicandra
+Playstation 4
+Lama        : 5 hari
+Harga       : 1000000
+Pengembalian: belum
+
+Adicandra
+Playstation 3
+Lama        : 5 hari
+Harga       : 1000000
+Pengembalian: belum
